@@ -1,2 +1,2 @@
 # BIA-Datathon-2023
-Submission for a Datathon (3rd place finish), includes an alteryx file and a tableau workbook.
+The goal of the Datathon was to give useful insights to the different areas in Singapore, for expatriats looking to relocate here. Submission (3rd place finish) includes an alteryx file and a tableau workbook, exploring mainly the use of Google Map API to segment the different areas based on postal district, and give insights on the property pricing (private properties in particular) and school choices available for each segment.
